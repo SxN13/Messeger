@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="networkLib">
+    <output-path>$PROJECT_DIR$/out/artifacts/networkLib</output-path>
+    <root id="archive" name="networkLib.jar">
+      <element id="module-output" name="network" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/server/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
